@@ -10,7 +10,7 @@
 #include "zynq-7000.dtsi"
 
 / {
-	model = "Koheron Alpha";
+	model = "Koheron Alpha 1G";
 	compatible = "xlnx,zynq-alpha-1g","xlnx,zynq-7000";
 
 	aliases {
